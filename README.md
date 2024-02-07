@@ -20,4 +20,4 @@ Als onderdeel van Project Tech heb ik een README gemaakt om Markdown te leren. H
 *Datum: 7 februari 2024*
 *Geschreven door: Gylianto Monadjat*
 
-![tiger](https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/5%20Best%20Coding%20Programs%20for%20Aspiring%20Programmers1650304687858345.jpg)
+![Code](https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/5%20Best%20Coding%20Programs%20for%20Aspiring%20Programmers1650304687858345.jpg)
