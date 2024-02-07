@@ -20,4 +20,4 @@ Als onderdeel van Project Tech heb ik een README gemaakt om Markdown te leren. H
 *Datum: 7 februari 2024*
 *Geschreven door: Gylianto Monadjat*
 
-![tiger](https://cdn.britannica.com/40/75640-050-F894DD85/tiger-Siberian.jpg)
+![tiger](https://i.ebayimg.com/images/g/68gAAOSw3qVimpsG/s-l1200.webp)
